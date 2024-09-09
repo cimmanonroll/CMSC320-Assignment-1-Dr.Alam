@@ -9,3 +9,7 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging preserves the entire history of the repository, but rebasing rewrites the project history by creating brand new commits for each commit in the branch
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: Merging preserves the entire history of the repository, but rebasing rewrites the project history by creating brand new commits for each commit in the branch
