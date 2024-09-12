@@ -9,3 +9,7 @@ Answer: Data science can be applied to marketing, like doing A/B testing on what
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging preserves the entire history of the repository, but rebasing rewrites the project history by creating brand new commits for each commit in the branch
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my pandas and SQL skills 
